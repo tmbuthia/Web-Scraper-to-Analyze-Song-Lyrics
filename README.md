@@ -16,7 +16,7 @@ Visualizing Data: Displays the distribution of word counts for easy insight.
 Modularizing Web Scraping for Lyrics
 The sources describe the web scraping process for song lyrics and the use of modularization to create efficient code. Here's a breakdown of the different stages involved:
 1. Building the Artist URL
-● This stage involves creating a function, such as build_artist_url, which generates the URL for the artist's page on the target website (in this case, songlyrics.com).
+ This stage involves creating a function, such as build_artist_url, which generates the URL for the artist's page on the target website (in this case, songlyrics.com).
 ● This function inputs the artist's name and constructs the URL accordingly.
 ● Modularizing this step allows flexibility for scraping lyrics for different artists.
 2. Fetching Artist Data
